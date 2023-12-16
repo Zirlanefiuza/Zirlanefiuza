@@ -1,12 +1,7 @@
 ### Oie, tudo bem? 😉
 
 Eu sou Zirlane Fiuza, Desenvolvedora Front End 👩🏻‍💻, 
-    <div>
-      <a href="https://github.com/Zirlanefiuza/Zirlanefiuza/">
-      <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=Zirlanefiuza&show_icons=true&theme=dracula" />
-      <img heigth="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zirlanefiuza&layout=compact&theme=dracula"/>
-    </div>
-
+ 
 - 💻 Atualmente estudo Desenvolvimento Web Full Stack;
 - 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedora;
 - 🤩 No meu tempo livre amo cantar 🎤 e tocar teclado 🎹;
@@ -17,7 +12,12 @@ Eu sou Zirlane Fiuza, Desenvolvedora Front End 👩🏻‍💻,
 - resolver problemas complexos e gerenciamento de tempo.Acredito que essas habilidades são valiosas no desenvolvimento web.
 
   ##
-  
+     <div>
+      <a href="https://github.com/Zirlanefiuza/Zirlanefiuza/">
+      <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=Zirlanefiuza&show_icons=true&theme=dracula" />
+      <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zirlanefiuza&layout=compact&theme=dracula"/>
+    </div>
+
 
 - #### Tecnologias e Ferramentas
 
