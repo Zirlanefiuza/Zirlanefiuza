@@ -4,7 +4,7 @@ Eu sou Zirlane Fiuza, Desenvolvedora Front End 👩🏻‍💻,
     <div>
       <a href="https://github.com/Zirlanefiuza/Zirlanefiuza/">
       <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=Zirlanefiuza&show_icons=true&theme=dracula" />
-      <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zirlanefiuza&layout=compact&theme=dracula"/>
+      <img heigth="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zirlanefiuza&layout=compact&theme=dracula"/>
     </div>
 
 - 💻 Atualmente estudo Desenvolvimento Web Full Stack;
