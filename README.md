@@ -20,7 +20,7 @@ Eu sou Zirlane Fiuza, Desenvolvedora Front End 👩🏻‍💻,
 
 -  #### Projeto que estou contibuindo no momento [Guarda Digital](https://guardadigital.com.br/)
 
-  ##
+##
 
 
 - #### Tecnologias e Ferramentas
@@ -36,7 +36,7 @@ Eu sou Zirlane Fiuza, Desenvolvedora Front End 👩🏻‍💻,
       <img align="center" alt="Rafa-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"> 
     </div>
     
-    ##
+##
 
 - #### Minhas Redes Sociais
 
