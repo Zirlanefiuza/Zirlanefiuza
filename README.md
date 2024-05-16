@@ -4,7 +4,7 @@ Eu sou Zirlane Fiuza, Desenvolvedora Front End 👩🏻‍💻,
  
 - 💻 Atualmente estudo Desenvolvimento Web Full Stack;
 - 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedora;
-- 🤩 No meu tempo livre amo cantar 🎤 e tocar teclado 🎹;
+- 🤩 No meu tempo livre amo cantar 🎤 e tocar teclado 🎹 e ler 📖;
 - 🏊 Adoro fazer natação e musculação;
 - 💬 Pergunte-me sobre qualquer coisa, estou disponivel para ensinar e aprender;
 
