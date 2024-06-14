@@ -5,9 +5,9 @@ Eu sou Zirlane Fiuza, Desenvolvedora Front End 👩🏻‍💻,
 - 💻 Atualmente estudo Desenvolvimento Web Full Stack;
 - 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedora;
 - 🤩 No meu tempo livre prefiro cantar e ler 📖;
-- 🍃 Adoro fazer caminhar no parque e musculação 🏋️;
+- 🍃 Adoro caminhar no parque;
 - 💬 Pergunte-me sobre qualquer coisa, estou disponivel para ensinar e aprender;
-- 🛫 Meu background na aviação me ensinou o trabalho em equipe, comunicação assertiva, me ensinou a pensar de forma analítica,resolver problemas complexos e gerenciamento de tempo. Acredito que essas habilidades são valiosas no desenvolvimento web.
+- 🛫 Meu background na aviação me ensinou o trabalho em equipe, comunicação assertiva, me ensinou a pensar de forma analítica, resolver problemas complexos e gerenciamento de tempo. Acredito que essas habilidades são valiosas no desenvolvimento web.
 
 
      <div>
