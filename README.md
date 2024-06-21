@@ -1,45 +1,39 @@
 # Olá, sou Zirlane Fiuza! 👋
 ### Desenvolvedora Front End 👩🏻‍💻
 
----
 
 ### Sobre mim
 Sou uma desenvolvedora apaixonada por inovação, atualmente focada em Desenvolvimento Web Full Stack.
 
----
 
 ### Atualmente
 - 🎓 Estudo **Desenvolvimento Web Full Stack**
 - 💼 Em busca de conhecimento contínuo para evoluir na minha carreira de desenvolvedora
 
----
 
 ### Interesses
 - 🎤 Adoro **cantar** e **ler** 📚
 - 🌳 Gosto de **caminhar no parque**
 
----
 
 ### Fale comigo
 - 💬 Pergunte-me sobre qualquer coisa, estou disponível para **ensinar e aprender**
 
----
 
 
 ### Projeto Atual
 - Estou contribuindo no projeto [Guarda Digital](https://guardadigital.com.br/)
 
----
+#
 
-### Estatísticas do GitHub
-<div>
-  <a href="https://github.com/Zirlanefiuza">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zirlanefiuza&show_icons=true&theme=dracula" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zirlanefiuza&layout=compact&theme=dracula"/>
-  </a>
+### Minhas Redes Sociais
+<div> 
+  <a href="https://www.linkedin.com/in/zirlane-fiuza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:zirlanebatistfiuza@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/zilanefiuza?igshid=YzVkODRmOTdmMw%3D%3D&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
----
+#
 
 ### Tecnologias e Ferramentas
 <div style="display: inline_block"><br>
@@ -53,12 +47,12 @@ Sou uma desenvolvedora apaixonada por inovação, atualmente focada em Desenvolv
   <img align="center" alt="Zi-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"> 
 </div>
 
----
+#
 
-### Minhas Redes Sociais
-<div> 
-  <a href="https://www.linkedin.com/in/zirlane-fiuza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:zirlanebatistfiuza@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/zilanefiuza?igshid=YzVkODRmOTdmMw%3D%3D&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+### Estatísticas do GitHub
+<div>
+  <a href="https://github.com/Zirlanefiuza">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zirlanefiuza&show_icons=true&theme=dracula" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zirlanefiuza&layout=compact&theme=dracula"/>
+  </a>
 </div>
-
