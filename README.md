@@ -3,11 +3,11 @@
 
 
 ### Sobre mim
-Sou uma desenvolvedora apaixonada por inovação, atualmente focada em Desenvolvimento Web Full Stack na [Soul Code](https://soulcode.com/curso-react-nodejs-full-stack).
+Sou uma desenvolvedora apaixonada por inovação, atualmente focada em Desenvolvimento Web Full Stack.
 
 
 ### Atualmente
-- 🎓 Estudo **Desenvolvimento Web Full Stack**
+- 🎓 Estudo **Desenvolvimento Web Full Stack  na [Soul Code](https://soulcode.com/curso-react-nodejs-full-stack)**
 - 💼 Em busca de conhecimento contínuo para evoluir na minha carreira de desenvolvedora
 
 
