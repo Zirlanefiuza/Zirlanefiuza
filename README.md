@@ -20,10 +20,6 @@ Sou uma desenvolvedora apaixonada por inovação, atualmente focada em Desenvolv
 - 💬 Pergunte-me sobre qualquer coisa, estou disponível para **ensinar e aprender**
 
 
-
-### Projeto Atual
-- Estou contribuindo no projeto [Guarda Digital](https://guardadigital.com.br/)
-
 #
 
 ### Minhas Redes Sociais
